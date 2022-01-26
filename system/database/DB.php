@@ -5,8 +5,8 @@
  * An open source application development framework for PHP 5.1.6 or newer
  *
  * @package		CodeIgniter
- * @author		ExpressionEngine Dev Team
- * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc.
+ * @author		Pmec
+ * @copyright	Copyright (c) 2018 - 2022, EllisLab, Inc.
  * @license		http://codeigniter.com/user_guide/license.html
  * @link		http://codeigniter.com
  * @since		Version 1.0
@@ -19,7 +19,7 @@
  * Initialize the database
  *
  * @category	Database
- * @author		ExpressionEngine Dev Team
+ * @author		Pmec Team
  * @link		http://codeigniter.com/user_guide/database/
  * @param 	string
  * @param 	bool	Determines if active record should be used or not
